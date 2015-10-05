@@ -1,0 +1,13 @@
+TODO
+====
+* improve documentation of submodules
+* remove dependency on specific version of RCCE and use as git submodule
+* provide better targets that cover all combinations of methods and debug options
+* add more psc methods
+* add sanity checking for build system
+* deprecate /shared directory needed for rcce
+
+
+
+
+
