@@ -1,0 +1,6 @@
+[submodule "rckskel"]
+	path = rckskel
+	url = https://github.com/xulesc/rckskel.git
+[submodule "mcpsc"]
+	path = mcpsc
+	url = https://github.com/xulesc/mcpsc.git
